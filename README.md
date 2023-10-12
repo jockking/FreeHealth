@@ -46,30 +46,36 @@ FreeHealth is a long term project built from the ground up to address all areas 
 ## Laboratory and Radiology Integration:
 
 - Order and Results Management: Facilitate the ordering of lab tests and radiology procedures, and the delivery of results to healthcare providers.
-- Health and Wellness Monitoring:
 
-Wearable Integration: Support integration with wearable devices and health sensors for continuous health monitoring.
-Health Tracking: Help patients track and manage their health metrics, such as weight, blood pressure, and glucose levels.
-Community and Education:
+## Health and Wellness Monitoring:
 
-Forums and Support Groups: Create a space for patients and caregivers to connect, share experiences, and seek advice.
-Health Education Resources: Offer educational content on various health topics.
-Data Analytics and Reporting:
+- Wearable Integration: Support integration with wearable devices and health sensors for continuous health monitoring.
+- Health Tracking: Help patients track and manage their health metrics, such as weight, blood pressure, and glucose levels.
 
-Data Insights: Provide tools to analyze and visualize health data for healthcare professionals, administrators, and researchers.
-Population Health Management: Assist in managing the health of larger populations and identifying trends.
-Security and Compliance:
+## Community and Education:
 
-Access Control: Implement role-based access control to ensure data security.
-HIPAA Compliance: Ensure your platform adheres to the necessary healthcare data privacy and security standards.
-User Support and Feedback:
+- Forums and Support Groups: Create a space for patients and caregivers to connect, share experiences, and seek advice.
+- Health Education Resources: Offer educational content on various health topics.
 
-Help Desk: Provide customer support for technical issues and inquiries.
-Feedback Mechanisms: Collect and act on user feedback for continuous improvement.
-Open Source Community Support:
+## Data Analytics and Reporting:
 
-Developer Documentation: Offer comprehensive documentation to help other developers contribute to the project.
-Forums and Collaboration Tools: Foster a collaborative community of developers, healthcare professionals, and users.
-Mobile Apps: Develop mobile applications for both patients and healthcare providers to ensure accessibility.
+- Data Insights: Provide tools to analyze and visualize health data for healthcare professionals, administrators, and researchers.
+- Population Health Management: Assist in managing the health of larger populations and identifying trends.
 
-Localization: Make your platform accessible to a global audience by supporting multiple languages and healthcare standards.
+## Security and Compliance:
+
+- Access Control: Implement role-based access control to ensure data security.
+- HIPAA Compliance: Ensure your platform adheres to the necessary healthcare data privacy and security standards.
+
+## User Support and Feedback:
+
+- Help Desk: Provide customer support for technical issues and inquiries.
+- Feedback Mechanisms: Collect and act on user feedback for continuous improvement.
+
+## Open Source Community Support:
+
+- Developer Documentation: Offer comprehensive documentation to help other developers contribute to the project.
+- Forums and Collaboration Tools: Foster a collaborative community of developers, healthcare professionals, and users.
+- Mobile Apps: Develop mobile applications for both patients and healthcare providers to ensure accessibility.
+
+## Localization: Make your platform accessible to a global audience by supporting multiple languages and healthcare standards.
